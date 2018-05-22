@@ -1,0 +1,4 @@
+[run]
+branch=True
+source=src/terraform_docs
+# concurrency=multiprocessing
